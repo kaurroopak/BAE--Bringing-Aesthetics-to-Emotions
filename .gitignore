@@ -1,0 +1,16 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment & config
+.env
+
+# OS files
+.DS_Store
+Thumbs.db

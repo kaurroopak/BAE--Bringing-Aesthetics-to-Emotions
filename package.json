@@ -1,0 +1,34 @@
+{
+  "name": "bae--bringing-aesthetics-to-emotions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JanviDharwal/BAE--Bringing-Aesthetics-to-Emotions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JanviDharwal/BAE--Bringing-Aesthetics-to-Emotions/issues"
+  },
+  "homepage": "https://github.com/JanviDharwal/BAE--Bringing-Aesthetics-to-Emotions#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "hbs": "^4.2.0",
+    "mongoose": "^8.19.2",
+    "nodemon": "^3.1.10"
+  }
+}
